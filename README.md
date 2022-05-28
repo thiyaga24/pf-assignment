@@ -18,6 +18,8 @@ I have worked & tested  Node Version : `Nodejs 16.x`
 Many things still need to be covered, such as
 1. API Timeout Handling
 2. API Endpoint Unit Testing
+3. Logging & Metrics
+4. Handling BIG Input JSON (>10MB) from API Consumer
 
 
 # Part 2
