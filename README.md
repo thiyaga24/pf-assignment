@@ -38,5 +38,5 @@ Many things still need to be covered, such as
 2. UI Unit Testing
 
 
-> **_NOTE:_**  Thank you for reading upto this line :) . In case, If you find something is missing, Please feel free to write to me, I happy to amend the code.
-> **_Email ID:_** : thya dot it at gmail dot com
+> **_NOTE:_**  Thank you for reading upto this line :) . In case, If i may be missing or you want me to do, Please feel free to write to me, I happy to amend the code.
+> **_Email ID:_** : thya dot it at gmail.com
