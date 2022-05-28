@@ -14,7 +14,7 @@ I have worked & tested  Node Version : `Nodejs 16.x`
 
 > npm install 
 
-### Todo
+#### ToDo
 Many things still need to be covered, such as
 1. API Timeout Handling
 2. API Endpoint Unit Testing
@@ -32,7 +32,7 @@ Reactjs UI version of this project is available at below zip file.
 Please make sure to install npm packages once downloaded, using below command.
 I have worked & tested  React Version : `Reactjs 18.x`
 
-### Todo
+#### ToDo
 Many things still need to be covered, such as
 1. API Timeout Handling
 2. UI Unit Testing
