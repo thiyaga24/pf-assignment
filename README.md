@@ -42,6 +42,6 @@ Many things still need to be covered, such as
 2. UI Unit Testing
 
 
-> **_NOTE:_**  Thank you for reading upto this line :). In case, If i may be missing or you want me to do something, Please feel free to write to me, I happy to amend the code.
+> **_NOTE:_**  Thank you for reading upto this line :). There is always room for improvement, In case, If i may be missing or you want me to do something, Please feel free to write to me, I happy to amend the code.
 
-> **_Email ID:_** : thya dot it at gmail.com
+> **_Email ID:_** : thya dot it at gmail dot com
