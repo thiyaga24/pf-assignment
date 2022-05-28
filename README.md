@@ -26,6 +26,10 @@ Many things still need to be covered, such as
 
 ## Reactjs UI Project
 
+I have given two version of UI implementation, 
+1. One is to call github API directly from client  browser
+2. Another one is to call Part 1 of this  API project and render result only
+
 Reactjs UI version of this project is available at below zip file.
 > [Download Zip Archive here](/ui-28-May-2022.zip)
 
